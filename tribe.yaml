@@ -4,7 +4,15 @@ tagline: "The first tribe for the Agent Tribes registry"
 owner:
   handle: "@ReversedK"
 links:
-  repo: "https://github.com/ReversedK/agent-tribe-one"
+  repo: "https://github.com/ReversedK/agent-tribe-one"                                                                                                                                              
+  discuss:                                                                                                                                           
+    discord: "https://discord.gg/..."                                                                                                                
+    reddit: "https://reddit.com/r/..."                                                                                                               
+    telegram: "https://t.me/..."                                                                                                                     
+    slack: "https://..."
+    matrix: "https://matrix.to/#/..."
+    other: "https://..."
+
 rules:
   join: "invite"
   license: "MIT"
