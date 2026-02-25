@@ -1,0 +1,14 @@
+id: "tribe:ReversedK/agent-tribe-one"
+name: "Agent Tribe One"
+tagline: "The first tribe for the Agent Tribes registry"
+owner:
+  handle: "@ReversedK"
+links:
+  repo: "https://github.com/ReversedK/agent-tribe-one"
+rules:
+  join: "invite"
+  license: "MIT"
+security:
+  allowlist:
+    - "network:read"
+    - "filesystem:read:./corpus"
